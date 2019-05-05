@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class MouseFollower : MonoBehaviour {
 	
 	// Update is called once per frame
